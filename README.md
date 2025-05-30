@@ -11,7 +11,7 @@ Sections for About, Projects, Skills, and Contact
 
 How to Use
 Clone the repo:
-`git clone https://github.com/your-username/personal-portfolio-website.git`
+`git clone https://github.com/AhmedArshed/personal-portfolio-website.git`
 
 Open index.html in your browser.
 
